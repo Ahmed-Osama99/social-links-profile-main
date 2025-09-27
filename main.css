@@ -78,10 +78,12 @@ ul.profiles a:not(:last-child) {
   margin-bottom: 15px;
 }
 .attribution {
+  color: var(--white-color);
   margin-top: 50px;
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--grean-color);
+  text-decoration: none;
 }
